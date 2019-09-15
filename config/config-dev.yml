@@ -1,0 +1,11 @@
+debug: "true"
+
+web:
+  port: 8000
+
+pg:
+  host: "127.0.0.1"
+  port: 36932
+  dbname: "startup"
+  user: "postgres"
+  pwd: ""

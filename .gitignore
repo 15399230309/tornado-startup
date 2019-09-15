@@ -1,0 +1,30 @@
+# Python
+*.egg-info
+*.egg
+*.pyc
+.DS_Store
+.idea
+.vscode
+.cache
+build
+dist
+celerybeat-schedule.db
+dev_only
+
+# Translations
+*.mo
+
+# Testing
+.tox
+.pytest_cache
+.coverage
+covhtml
+
+# Vagrant
+.vagrant
+.bash_history
+
+venv
+
+
+*/*.ctc
